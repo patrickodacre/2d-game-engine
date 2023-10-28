@@ -2,25 +2,25 @@
 
 Build simple adventure games!
 
-## Quick Started
+## Quick Start
 
 First, ensure you have Visual Studio installed and setup for C++ development.
 
-1. build.bat assumes you have the following SDL2 files in the following directories:
+1. build.bat assumes you have the following SDL2 files in C:\dev\include\SDL
 
-- "C:\dev\include\SDL
--- all header files for SDL2 core library
--- all headers for SDL2 image, ttf, and mixer libraries
+- all header files for SDL2 core library
+- all headers for SDL2 image, ttf, and mixer libraries
 
-* "C:\dev\lib\SDL
--- SDL2.lib
--- SDL2_image.lib
--- SDL2_mixer.lib
--- SDL2_ttf.lib
--- SDL2main.lib
--- SDL2test.lib
+2. put the following files in C:\dev\lib\SDL
 
-2. You must also put these files in your ./build directory:
+- SDL2.lib
+- SDL2_image.lib
+- SDL2_mixer.lib
+- SDL2_ttf.lib
+- SDL2main.lib
+- SDL2test.lib
+
+2. You must also put these files in the ./build directory of your project:
 
 - SDL2.dll
 - SDL2_image.dll
@@ -29,9 +29,7 @@ First, ensure you have Visual Studio installed and setup for C++ development.
 
 3. Update the debug.bat file to point to your installation of Visual Studio
 
-4. Open a command prompt and run the shell.bat file in the root of this project.
-
-This will setup your command prompt instance to compile using MSVC.
+4. Run shell.bat using a command prompt.
 
 5. Run build.bat to build the program.
 
