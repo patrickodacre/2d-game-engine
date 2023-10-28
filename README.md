@@ -37,10 +37,10 @@ First, ensure you have Visual Studio installed and setup for C++ development.
 
 ## Links
 
-[SDL2 Releases](https://github.com/libsdl-org/SDL/releases)
-[SDL2 Image Releases](https://github.com/libsdl-org/SDL_image/releases)
-[SDL2 Mixer Releases](https://github.com/libsdl-org/SDL_mixer/releases)
-[SDL2 TTF Releases](https://github.com/libsdl-org/SDL_ttf/releases)
+* [SDL2 Releases](https://github.com/libsdl-org/SDL/releases)
+* [SDL2 Image Releases](https://github.com/libsdl-org/SDL_image/releases)
+* [SDL2 Mixer Releases](https://github.com/libsdl-org/SDL_mixer/releases)
+* [SDL2 TTF Releases](https://github.com/libsdl-org/SDL_ttf/releases)
 
 
 
